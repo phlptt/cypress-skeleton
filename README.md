@@ -7,6 +7,11 @@ Cypress is a more developer-friendly tool that uses a unique DOM manipulation te
 
 Cypress also provides a unique interactive test runner in which it executes all commands.
 
+
+## Prerequisites
+* node/npm/nvm
+
+
 ## Installation
 
 cd to your project directory
